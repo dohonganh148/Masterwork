@@ -28,7 +28,6 @@ a{
     cursor: pointer;
     font-weight: 700;
     line-height: 52px;
-    transition: all .3s ease-out;
 }
 .buttonbtn:hover{
     color: white;
