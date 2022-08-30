@@ -1,0 +1,10 @@
+PHÂN CÔNG CÔNG VIỆC BÀI CAPSTONE
+NHÓM: Đỗ Thị Hồng Anh - Huỳnh Trọng Phúc BC37
+Layout: Masterwỏk
+Đỗ Thị Hồng Anh:
+  1. Khởi tạo dự án
+  2. Làm 3 trang: Home, About, Contact
+  3. Deploy trên vercel
+  4. Quay video demo + up lên Youtube
+Huỳnh Trọng Phúc:
+  Làm 3 trang: Services, BlogPost, BlogSingle
